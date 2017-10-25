@@ -1,4 +1,4 @@
-<?xml version="1.0"encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remotename="origin"  fetch="git@github.com:wangyidong"/>
         <defaultrevision="master" remote="origin" />
