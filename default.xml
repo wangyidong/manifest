@@ -2,5 +2,5 @@
 <manifest>
 	<remotename="origin"  fetch="git@github.com:wangyidong"/>
         <defaultrevision="master" remote="origin" />
-	<projectpath="leddemo" name="leddemo">
+	<projectpath="leddemo" name="leddemo" />
 </manifest>
